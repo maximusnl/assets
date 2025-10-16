@@ -1,0 +1,25 @@
+{
+  "name": "RockefellerToken",
+  "symbol": "RCKF",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "RockefellerToken (RCKF) is a meme coin inspired by the symbol of financial power and success. It is a decentralized asset with no taxes or restrictions. The contract is verified and audited. The total supply is 122,319,130 tokens with no further minting possible.",
+  "website": "https://rockefellertoken.com",
+  "explorer": "https://bscscan.com/token/0x8f9aE35cD7593e5Db1B03E5f6C619941D5828A5E",
+  "status": "active",
+  "id": "0x8f9aE35cD7593e5Db1B03E5f6C619941D5828A5E",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/rockefellertkn"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/rockefellertoken"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/rockefellertoken"
+    }
+  ]
+}
